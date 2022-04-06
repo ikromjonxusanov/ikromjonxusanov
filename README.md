@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/ikromjonxusanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikromjonxusanov" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikromjonxusanov&show_icons=true&locale=en" alt="ikromjonxusanov" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikromjonxusanov&show_icons=true"/>
+<p>
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=ikromjonxusanov&show_icons=true&locale=en" alt="ikromjonxusanov" />
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikromjonxusanov&show_icons=true"/>
 </p>

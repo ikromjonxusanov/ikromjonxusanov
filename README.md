@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Django, Rest API, python-telegram-bot**
 
-- 🌱 I’m currently learning **Vuex, Vuetify Microservice**
-
 - 💬 Ask me about **Django, Rest API, python-telegram-bot**
 
 - 📫 How to reach me **ikromjonkhusanov06@gmail.com**

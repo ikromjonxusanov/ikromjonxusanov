@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on **Django, Rest API, python-telegram-bot**
 
+- 🌱 I’m currently learning **English**
+
 - 💬 Ask me about **Django, Rest API, python-telegram-bot**
+
+- 💼 I’m currently creating an **Lms platform**
 
 - 📫 How to reach me **ikromjonkhusanov06@gmail.com**
 
